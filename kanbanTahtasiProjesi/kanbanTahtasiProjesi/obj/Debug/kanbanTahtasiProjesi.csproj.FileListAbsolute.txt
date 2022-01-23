@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\kanbanTahtasiProjesi\kanbanTahtasiProjesi\bin\Debug\kanbanTahtasiProjesi.exe.config
+C:\Users\user\source\repos\kanbanTahtasiProjesi\kanbanTahtasiProjesi\bin\Debug\kanbanTahtasiProjesi.exe
+C:\Users\user\source\repos\kanbanTahtasiProjesi\kanbanTahtasiProjesi\bin\Debug\kanbanTahtasiProjesi.pdb
+C:\Users\user\source\repos\kanbanTahtasiProjesi\kanbanTahtasiProjesi\obj\Debug\kanbanTahtasiProjesi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\kanbanTahtasiProjesi\kanbanTahtasiProjesi\obj\Debug\kanbanTahtasiProjesi.MainForm.resources
+C:\Users\user\source\repos\kanbanTahtasiProjesi\kanbanTahtasiProjesi\obj\Debug\kanbanTahtasiProjesi.Properties.Resources.resources
+C:\Users\user\source\repos\kanbanTahtasiProjesi\kanbanTahtasiProjesi\obj\Debug\kanbanTahtasiProjesi.csproj.GenerateResource.cache
+C:\Users\user\source\repos\kanbanTahtasiProjesi\kanbanTahtasiProjesi\obj\Debug\kanbanTahtasiProjesi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kanbanTahtasiProjesi\kanbanTahtasiProjesi\obj\Debug\kanbanTahtasiProjesi.exe
+C:\Users\user\source\repos\kanbanTahtasiProjesi\kanbanTahtasiProjesi\obj\Debug\kanbanTahtasiProjesi.pdb
+C:\Users\user\source\repos\kanbanTahtasiProjesi\kanbanTahtasiProjesi\obj\Debug\kanbanTahtasiProjesi.Form1.resources
